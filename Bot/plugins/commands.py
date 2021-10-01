@@ -94,9 +94,9 @@ async def help(bot, update):
 async def about(bot, update):
     
     buttons = [[
-        InlineKeyboardButton('👤 @Hyetelegram 👤', url='https://t.me/MRK_YT')
+        InlineKeyboardButton('👤 @Hyetelegram 👤', url='https://t.me/HyetelegramBots')
     ],[
-        InlineKeyboardButton('👤 @Hyetelegram 👤', url='https://t.me/AlbertEinsteinTG')
+        InlineKeyboardButton('👤 @Hyetelegram 👤', url='https://t.me/HyetelegramBots')
     ],[
         InlineKeyboardButton('🏠 𝙷𝚘𝚖𝚎', callback_data='start'),
         InlineKeyboardButton('𝙲𝚕𝚘𝚜𝚎 🔐', callback_data='close')
